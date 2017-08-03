@@ -1,0 +1,4 @@
+⍝ ???
+'abc' ⍳ 'abracadrabra'
+
+)OFF
