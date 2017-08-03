@@ -4,4 +4,4 @@ You need to ...
 
 * install `git` (brew install git)
 * install `apl` (brew install gnu-apl)
-* run `apl --script -f hellp.apl`
+* run `apl --script --noSV -f hellp.apl`
